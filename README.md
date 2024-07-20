@@ -3,6 +3,9 @@
 ## Features
 
 • Scrape data from various websites
+
 • Extract structured data from web pages
+
 • Basic error handling and logging
+
 • Easy configuration and usage
